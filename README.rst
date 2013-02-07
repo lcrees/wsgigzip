@@ -1,3 +1,6 @@
+Decorator for flup's gzip compression WSGI middleware
+=====================================================
+
 #Usage example:
 
 from wsgigzip import gzip
